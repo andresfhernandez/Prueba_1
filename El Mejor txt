@@ -1,0 +1,7 @@
+If you are using a Unix system (Linux, Mac), I would definitely recommend learning Vi/Vim. Vim is incredible because, while the learning curve is notable, one’s productivity skyrockets as he/she becomes more familiar with the commands. Please, I beg you, learn Vim. It seems archaic at first, but you will thank me. There is a reason it has existed for decades.
+
+Note: You can begin learning Vim by typing vimtutor into any Unix shell. This is an interactive Vim tutorial. Do it once a day for two weeks, and you will become a Vim master in no time.vimtutor
+
+Upon achieving acceptable familiarity with Vim, I would recommend PyCharm Community Edition, which is an extraordinary Python IDE offered by JetBrains (available at PyCharm :: Download Latest Version of PyCharm). The best part about this is that you can integrate your fresh Vim knowledge with PyCharm with its Vim integration! Combining a powerful IDE with Vim commands will skyrocket your productivity.
+
+Note: If you have a .edu email address, you can get PyCharm Ultimate Edition (few more features than CE).
